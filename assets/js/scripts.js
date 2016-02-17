@@ -51,7 +51,7 @@ $(window).load
                                 {
                                     'from_email': document.getElementById('email').value,
                                     'from_name': document.getElementById('name').value,
-                                    'to': [{'email': 'milliecreperie@gmail.com'}],
+                                    'to': [{'email': 'info@milliecreperie.com'}],
                                     'subject': document.getElementById('subject').value,
                                     'text': document.getElementById('message').value
                                 }
